@@ -21,6 +21,7 @@ int main(){
 |--------------------|-----------------|
 | Ogunmekpon         | Ogunmekpon@mysen|
 
-![Tech](file:///C:/Users/hammy/Downloads/psp-1920-x-1080-background-xnk7352jkehq6d5s.jpg)
 
+![TechPictures](psp-1920-x-1080-background-xnk7352jkehq6d5s.jpg)
+[Link up with me](https://students.senecapolytechnic.ca/)
  
